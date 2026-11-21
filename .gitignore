@@ -1,0 +1,10 @@
+*.txt
+*.docx
+*.dotm
+*.dotx
+*plan*
+*strategy*
+*.jks
+*.keystore
+keystore.properties
+.env
